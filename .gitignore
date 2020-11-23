@@ -11,8 +11,7 @@
 .idea/**/shelf
 yarn.lock
 .idea
-*.iml
-
+biometric_sync.iml
 # Generated files
 .idea/**/contentModel.xml
 
